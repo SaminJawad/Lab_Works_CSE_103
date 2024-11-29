@@ -47,6 +47,20 @@ Sample Input<br/>
 Sample Output<br/>
 Teenage: 33.00
 
+08.Checking prime numbers
+
+09.Display all factors of a number.
+
+10.Display the average value of the factors of a number.
+
+11.Display the biggest factor of a number except the number.
+
+12.Display the factorial value of a number.
+
+13.Display the number of odd factors of a number.
+
+14.Display the consecutive factors of a number except 1.
+
 
 # About
 
