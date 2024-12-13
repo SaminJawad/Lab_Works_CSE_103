@@ -75,6 +75,16 @@ Teenage: 33.00
 
 21.Finding exponent value by using loop.
 
+22.Display the highest  umber in the list and how many times it is in the list.
+
+23.Display the average value of some numbers and how many numbers are larger than average value.
+
+24.Display how many days have higher temperature than its previous day.
+
+25.Display which is the toughest semester by average result.
+
+26.Display how many students has improved in their studies than previous semester.
+
 
 # About
 
