@@ -61,6 +61,20 @@ Teenage: 33.00
 
 14.Display the consecutive factors of a number except 1.
 
+15.Display if it is a armstrong number or not.
+
+16.Display the summation of all the digits of a number,
+
+17.Display the factorial of a number.
+
+18.Display how many numbers and which which numbers are divisible by both 3 & 5 between the range of 1 to a number.
+
+19.Display the highest age and the average age from the inputs.
+
+20.Multiplication.
+
+21.Finding exponent value by using loop.
+
 
 # About
 
