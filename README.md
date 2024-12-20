@@ -85,6 +85,79 @@ Teenage: 33.00
 
 26.Display how many students has improved in their studies than previous semester.
 
+27. Write a C program which can input the last seven days temperature into an array and display the average temperature.<br/>
+Sample Input<br/>
+36 35 39 37 38 39 38<br/>
+Sample Output<br/>
+37.428571
+
+28.Write a C program which can input some persons’ age into an array and display how many of them are older than the average age of those people.<br/>
+Sample Input<br/>
+6<br/>
+40 30 1010 15 15<br/>
+Sample Output<br/>
+2
+
+29.Write a C program which can input some students' age of a particular class into an array and display the number of teenagers in that class.<br/>
+Sample Input<br/>
+6<br/>
+40 30 10 10 15 15<br/>
+Sample Output<br/>
+2
+
+30. Write a C program which can input some students' marks and check whether any student got full marks. You may assume that the exam’s total mark is 30.<br/>
+Sample Input<br/>
+6<br/>
+22 29 10 10 15 15<br/>
+Sample Output<br/>
+No
+
+31. Write a C program which can input some students’ marks and display which grades are achieved by most of the students (Grades are A (>=90), B (>=80), C (>=70), and D (>=60))<br/>
+Sample Input<br/>
+8<br/>
+77 65 74 97 87 85 99 80<br/>
+Sample Output<br/>
+B
+
+32Write a C program which can some 2D points into an array (The x values in one array and y values in another array). Display how many points are in each quadrant.<br/>
+Sample Input.<br/>
+4<br/>
+5 5<br/>
+8 8<br/>
+4 9<br/>
+3 1<br/>
+Sample Output<br/>
+4 0 0 0
+
+33.Write a C program which can input the last seven days temperature into an array and display the highest temperature. How many days that highest value is found.<br/>
+Sample Input<br/>
+36 35 39 37 38 39 38<br/>
+Sample Output<br/>
+39<br/>
+2
+
+34.Write a C program which can input some numbers into an array and display the highest value among the odd values and of the even values separately.<br/>
+Sample Input<br/>
+36 35 39 37 34 39 34<br/>
+Sample Output<br/>
+39<br/>
+36
+
+35.Write a C program which can input some students’ marks and display average, variance and standard deviation.<br/>
+Sample Input<br/>
+36 35 39 37 34 39 34<br/>
+Sample Output<br/>
+36.285714<br/>
+3.918367<br/>
+1.979486
+
+36.Write a C program which can input some numbers and display how many of them are divisible by immediate previous element of the array.<br/>
+Sample Input<br/>
+40 10 30 15 30 30 30<br/>
+Sample Output<br/>
+4
+
+
 
 # About
 
