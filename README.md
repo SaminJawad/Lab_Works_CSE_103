@@ -157,6 +157,14 @@ Sample Input<br/>
 Sample Output<br/>
 4
 
+37.Enter numbers and see how namy factors are there for the numbers (Using Array).
+
+38.Enter numbers using an array and find the average of the factors of all numbers.
+
+39.Enter numbers using array and see if the number is prime or not.
+
+40.Find the GCD of consicutive numbers using array.
+
 
 
 # About
