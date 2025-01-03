@@ -9,7 +9,7 @@ int main(){
     }
 
     for(i=1;i<=10;i=i+2){
-        for(j=1;j<=10;j++){
+        for(j=1;j<=num[i];j++){
         if(num[i]%j==0 && num[i+1]%j==0){
             GCD=j;
         }
